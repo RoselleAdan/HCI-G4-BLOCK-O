@@ -59,7 +59,7 @@ header{
     position: fixed;
     top: 1; left: 0; right: 0;
     background: lightpink;
-    padding: 1rem 5%;
+    padding: 1rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
