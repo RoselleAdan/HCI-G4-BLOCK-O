@@ -57,9 +57,9 @@ section{
 }
 header{
     position: fixed;
-    top: 0; left: 0; right: 0;
+    top: 1; left: 0; right: 0;
     background: lightpink;
-    padding: 1rem 9%;
+    padding: 1rem 5%;
     display: flex;
     align-items: center;
     justify-content: space-between;
